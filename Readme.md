@@ -1,7 +1,7 @@
 ## Página Inicial do Instagram 
 
 <p align="center"  heiht: 40rem>
-  <img src="https://i.imgur.com/bFMszk7.png">
+ 
 </P>
 
 ## 📘 Sobre
